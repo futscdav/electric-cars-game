@@ -1,0 +1,17 @@
+{
+    "max_resource": 11000,
+    "day_start": "0700",
+    "charging_left": true,
+    "charging_right": true,
+    "charging_down": true,
+    "charging_up": true,
+    "charging_left_cost": 2500,
+    "charging_right_cost": 2500,
+    "charging_down_cost": 2500,
+    "charging_up_cost": 2500,
+    "poles": true,
+    "powerplants": true,
+    "pole_cost": 100,
+    "pole_radius": 4.0, 
+    "powerplant_cost": 5000
+}

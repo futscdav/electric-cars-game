@@ -1,0 +1,18 @@
+{	
+	"script": "Level2Script",
+    "max_resource": 10000,
+    "day_start": "0700",
+    "charging_left": false,
+    "charging_right": false,
+    "charging_down": true,
+    "charging_up": true,
+    "charging_left_cost": 5000,
+    "charging_right_cost": 5000,
+    "charging_down_cost": 2500,
+    "charging_up_cost": 2500,
+    "poles": true,
+    "pole_radius": 4.0,
+    "powerplants": true,
+    "pole_cost": 100,
+    "powerplant_cost": 5000
+}

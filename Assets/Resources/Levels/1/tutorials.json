@@ -1,0 +1,12 @@
+{
+   "tutorials": [
+       {
+		   "screenwidth" : 0.63,
+		   "screenheight" : 0.20,
+		   "screenleft" : 0.175,
+		   "screentop" : 0.67,
+		   "time": "0701",
+		   "resource": "welcome"
+       }
+   ]
+}

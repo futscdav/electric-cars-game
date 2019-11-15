@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4e88f8a56aefeaa4f9b58838dab5afb9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - polePrefab: {fileID: 100002, guid: ce0e8b6484b2aa445be53ae06b922dab, type: 2}
+  - chordPrefab: {fileID: 100000, guid: e1a401a8f7cefac49967d186447a24d5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d2c24b20f603d1a4686fad220ce7bc83
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - point: {instanceID: 0}
+  - chordPrefab: {fileID: 100000, guid: e1a401a8f7cefac49967d186447a24d5, type: 2}
+  - noConnectionTexture: {fileID: 2800000, guid: 24445a131d14507469371a26362fb98a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
